@@ -1,1 +1,0 @@
-Variabelen en functies moeten in snake_case worden geschreven.
