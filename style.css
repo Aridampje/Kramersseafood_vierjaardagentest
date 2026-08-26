@@ -1,0 +1,29 @@
+body{
+    background-color: pink;
+    /*display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;*/
+}
+
+.lijsten{
+    display: flex;
+    justify-content: center;
+}
+
+
+.deze_maand,
+.vandaag_jarig {
+    padding: 5rem;
+    text-align: center;
+}
+
+#vandaag_jarig_lijst{
+    margin: 15px;
+}
+
+.rijen{
+    display: flex;
+    gap: 7rem;           
+    justify-content: center;
+}
