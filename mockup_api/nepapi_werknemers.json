@@ -48,7 +48,7 @@
     { "id": 46, "firstName": "Danique", "lastName": "van Pelt", "birthDate": "1994-10-13", "department": "HR" },
     { "id": 47, "firstName": "Thijs", "lastName": "Smits", "birthDate": "1989-11-28", "department": "Operations" },
     { "id": 48, "firstName": "Maaike", "lastName": "Koning", "birthDate": "1992-12-06", "department": "Marketing" },
-    { "id": 49, "firstName": "Arjan", "lastName": "Wemmers", "birthDate": "2009-08-25", "department": "IT" },
-    { "id": 50, "firstName": "Veerle", "lastName": "de Jong", "birthDate": "2009-08-25", "department": "Sales" }
+    { "id": 49, "firstName": "Arjan", "lastName": "Wemmers", "birthDate": "2009-08-26", "department": "IT" },
+    { "id": 50, "firstName": "Veerle", "lastName": "de Jong", "birthDate": "2009-08-26", "department": "Sales" }
   ]
 }
