@@ -14,7 +14,7 @@ body{
 
 .deze_maand,
 .vandaag_jarig {
-    padding: 5rem;
+    padding: 1rem;
     text-align: center;
 }
 
@@ -26,4 +26,5 @@ body{
     display: flex;
     gap: 7rem;           
     justify-content: center;
+    flex-wrap: nowrap;
 }
